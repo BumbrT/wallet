@@ -10,7 +10,7 @@ JEW is a cutting edge cryptocurrency, with many features not available in most o
   technology used to secure the network and provide the above features, each Masternode is secured
   with collateral of 10K JEW
 
-More information at [shekel.org](http://www.shekel.org) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php?topic=1262920)
+More information at [shekel.io](http://www.shekel.io) Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=2455628.0)
 
 ### Coin Specs
 <table>
