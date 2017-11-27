@@ -29,27 +29,17 @@ More information at [shekel.org](http://www.shekel.org) Visit our ANN thread at 
 <th colspan=4>PoW Phase</th>
 <tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th><th>Duration (Days)</th></tr>
 <tr><td>1</td><td>4,000,000 JEW</td><td>Initial Premine</td><td>0 Days</td></tr>
-<tr><td>2-151200</td><td>250 JEW</td><td rowspan=2>Open Mining</td><td rowspan=2> Approx 180 Days</td></tr>
-<tr><td>151201-259200</td><td>50 JEW</td></tr>
+<tr><td>2-100000</td><td>350 JEW</td><td rowspan=2>Open Mining</td><td rowspan=2> Approx 180 Days</td></tr>
 <tr><th colspan=4>PoS Phase</th></tr>
 <tr><th>Block Height</th><th colspan=3>Reward Amount</th></tr>
-<tr><td>259201-Infinite</td><td colspan=3>Variable based on SeeSaw Reward Mechanism</td></tr>
-</table>
-
-### PoW Rewards Breakdown
-
-<table>
-<th>Block Height</th><th>Masternodes</th><th>Miner</th><th>Budget</th>
-<tr><td>2-43200</td><td>20% (50 JEW)</td><td>80% (200 JEW)</td><td>N/A</td></tr>
-<tr><td>43201-151200</td><td>20% (50 JEW)</td><td>70% (200 JEW)</td><td>10% (25 JEW)</td></tr>
-<tr><td>151201-259200</td><td>45% (22.5 JEW)</td><td>45% (22.5 JEW)</td><td>10% (5 JEW)</td></tr>
+<tr><td>100001-Infinite</td><td colspan=3>Variable based on SeeSaw Reward Mechanism</td></tr>
 </table>
 
 ### PoS Rewards Breakdown
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th><th>Budget</th>
-<tr><td>Phase 1</td><td>259201-302399</td><td>50 JEW</td><td>90% (45 JEW)</td><td>10% (5 JEW)</td></tr>
+<tr><td>Phase 1</td><td>100001-302399</td><td>50 JEW</td><td>90% (45 JEW)</td><td>10% (5 JEW)</td></tr>
 <tr><td>Phase 2</td><td>302400-345599</td><td>45 JEW</td><td>90% (40.5 JEW)</td><td>10% (4.5 JEW)</td></tr>
 <tr><td>Phase 3</td><td>345600-388799</td><td>40 JEW</td><td>90% (36 JEW)</td><td>10% (4 JEW)</td></tr>
 <tr><td>Phase 4</td><td>388800-431999</td><td>35 JEW</td><td>90% (31.5 JEW)</td><td>10% (3.5 JEW)</td></tr>
