@@ -17,19 +17,18 @@ More information at [shekel.org](http://www.shekel.org) Visit our ANN thread at 
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>43,199,500 JEW</td></tr>
+<tr><td>Max Coin Supply (PoW Phase)</td><td>40,000,000 JEW</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
-<tr><td>Premine</td><td>60,000 JEW*</td></tr>
+<tr><td>Premine</td><td>4,000,000 JEW*</td></tr>
 </table>
 
-*60,000 JEW Premine was burned in block [279917](http://www.presstab.pw/phpexplorer/JEW/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
 
 ### Reward Distribution
 
 <table>
 <th colspan=4>PoW Phase</th>
 <tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th><th>Duration (Days)</th></tr>
-<tr><td>1</td><td>60,000 JEW</td><td>Initial Premine</td><td>0 Days</td></tr>
+<tr><td>1</td><td>4,000,000 JEW</td><td>Initial Premine</td><td>0 Days</td></tr>
 <tr><td>2-151200</td><td>250 JEW</td><td rowspan=2>Open Mining</td><td rowspan=2> Approx 180 Days</td></tr>
 <tr><td>151201-259200</td><td>50 JEW</td></tr>
 <tr><th colspan=4>PoS Phase</th></tr>
